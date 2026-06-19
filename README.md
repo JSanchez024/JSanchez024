@@ -44,10 +44,14 @@
   <h1 aling="center"> 🤝 Redes & Contacto </h1>
 </div>
 
+<div align='center'>
+
 | Plataforma | Enlace Directo |
 | :--- | :--- |
 | <img src="https://skillicons.dev/icons?i=linkedin" height="22" /> **LinkedIn** | [in/joaquin-sanchez-768071338](https://www.linkedin.com/in/joaquin-sanchez-768071338) |
 | <img src="https://skillicons.dev/icons?i=gmail" height="22" /> **Email** | [joaquin.sanchez.suazo@gmail.com](mailto:joaquin.sanchez.suazo@gmail.com) |
+
+</div>
 
 <br>
 
