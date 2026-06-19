@@ -12,10 +12,27 @@
 ---
 
 <br>
+<div align='center'>
+  <h1 aling="center"> 💫 About Me: </h1>
+</div>
 
-# 💫 About Me:
 <br>
-Desarrollador en constante evolución. Me enfoco en la creación de proyectos personales como vía para materializar ideas y perfeccionar mis habilidades técnicas. Soy una persona autodidacta y siempre en busca de retos que me impulsen a crecer profesionalmente en el ecosistema tecnológico.
+
+<div align="center">
+  <kbd>
+    <br>
+    &nbsp;&nbsp; 🔑 &nbsp; <b>Desarrollador autodidacta</b> enfocado en materializar ideas y <b>superar retos</b>. &nbsp;&nbsp;
+    <br><br>
+  </kbd>
+</div>
+
+<br>
+
+* 🚀 **Desarrollador en constante evolución:** Busco el aprendizaje continuo.
+* 💡 **Creación de proyectos personales:** Un laboratorio para materializar ideas y perfeccionar habilidades.
+* 🧠 **Autodidacta:** Capaz de aprender nuevas tecnologías de forma independiente.
+* 📈 **En busca de retos:** Siempre persiguiendo proyectos que impulsen mi crecimiento profesional en el ecosistema tecnológico.
+
  <div>
    <br>
    
@@ -23,7 +40,9 @@ Desarrollador en constante evolución. Me enfoco en la creación de proyectos pe
  </div>
   <br>
 
-## 🤝 Redes & Contacto
+<div align='center'>
+  <h1 aling="center"> 🤝 Redes & Contacto </h1>
+</div>
 
 | Plataforma | Enlace Directo |
 | :--- | :--- |
@@ -36,7 +55,9 @@ Desarrollador en constante evolución. Me enfoco en la creación de proyectos pe
 
 <br>
 
-## 💻 Tecnologías & Herramientas
+<div align='center'>
+  <h1 aling="center"> 💻 Tecnologías & Herramientas </h1>
+</div>
 
 <p align="center">
   <sub><b>Frontend</b></sub><br/>
@@ -64,6 +85,10 @@ Desarrollador en constante evolución. Me enfoco en la creación de proyectos pe
 ---
 
 [![](https://visitcount.itsvg.in/api?id=JSanchez024&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align='center'>
+  <h1 aling="center"> 🕹️ Cuidado: Serpiente suelta en mi mapa de contribuciones 🐍 </h1>
+</div>
 
 
 <div align="center">
