@@ -6,6 +6,7 @@
   <br>
   <br>
 </div>
+
 <br>
 
 ---
@@ -22,53 +23,41 @@ Desarrollador en constante evolución. Me enfoco en la creación de proyectos pe
  </div>
   <br>
 
-## 🌐 Socials:
-<br>
-<div align="left">
-  <a href="https://www.linkedin.com/in/joaquin-sanchez-768071338" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://mailto:joaquin.sanchez.suazo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+## 🤝 Redes & Contacto
+
+| Plataforma | Enlace Directo |
+| :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=linkedin" height="22" /> **LinkedIn** | [in/joaquin-sanchez-768071338](https://www.linkedin.com/in/joaquin-sanchez-768071338) |
+| <img src="https://skillicons.dev/icons?i=gmail" height="22" /> **Email** | [joaquin.sanchez.suazo@gmail.com](mailto:joaquin.sanchez.suazo@gmail.com) |
 
 <br>
 
 ---
 
-# 💻 Tech Stack:
-
 <br>
 
+## 💻 Tecnologías & Herramientas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo"  />
-</div>
+<p align="center">
+  <sub><b>Frontend</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind" />
+</p>
+
+<br/>
+
+<p align="center">
+  <sub><b>Backend & Bases de Datos</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb" />
+</p>
+
+<br/>
+
+<p align="center">
+  <sub><b>Herramientas & Despliegue</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=postman,netlify" />
+</p>
+
+<br/>
 
 <br>
 
